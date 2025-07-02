@@ -1,9 +1,33 @@
 .Top-half {
-    background-color: #1F2937
-    
+  padding-bottom: 300px;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 10px;
+  background-color: #1f2937;
 }
 
-div {
+.header-inner {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 0;
+
+}
+
+
+
+.Box-area {
+    background-color: white;
+    padding: 150px;
+}
+
+
+.text-area {
+    background-color: #E5E7EB;
     padding: 150px;
 
 }
+
+
+
+
