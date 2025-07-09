@@ -94,8 +94,8 @@ button {
 .title h2 {
   padding: 30px 0px;
   color: black;
-  font-weight: bold;
-  font-size: 50px;
+  font-weight: 900;
+  font-size: 36px;
 }
 
 .box-section {
@@ -112,10 +112,9 @@ button {
 .card {
   border: 5px solid #3882f6;
   border-radius: 15px;
-  padding: 100px;
-  width: 220px;
-  height: 220px;
-  margin-bottom: 10px;
+  padding: 80px;
+ 
+  margin-bottom: 5px;
 
 
 }
@@ -124,6 +123,8 @@ button {
   display: flex;
   flex-direction: column;
   align-items: center;
+  width: 200px;
+  margin-bottom: 70px;
 
 
 }
@@ -133,3 +134,40 @@ button {
   word-wrap: break-word;
   width: 150px;
 }
+
+
+.testamonial {
+  
+  background-color: #E5E7EB;
+  color: #1F2937;
+  padding: 165px;
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+
+
+}
+
+
+.text-box {
+  width: 950px;
+  height: 170px
+}
+
+.before-author {
+  margin-bottom: 20px;
+  font-size:36px;
+  font-style: italic;
+}
+
+.author {
+  text-align: right;
+  font-size: 25px;
+  font-weight: bold;
+  font-style: normal;
+}
+
+
+
